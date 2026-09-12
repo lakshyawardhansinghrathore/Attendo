@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <a href="#features">Features</a> •
-  <a href="#demo">Demo</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#architecture">Architecture</a> •
-  <a href="#getting-started">Getting Started</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#database-schema">Database Schema</a> •
-  <a href="#contributing">Contributing</a>
+  <a href="#-overview">Overview</a> •
+  <a href="#-features">Features</a> •
+  <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> •
+  <a href="#%EF%B8%8F-architecture">Architecture</a> •
+  <a href="#-getting-started">Getting Started</a> •
+  <a href="#-usage">Usage</a> •
+  <a href="#%EF%B8%8F-database-schema">Database Schema</a> •
+  <a href="#-contributing">Contributing</a>
 </p>
 
 <p align="center">
