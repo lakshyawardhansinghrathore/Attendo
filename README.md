@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  🚀 <strong>Live Demo: <a href="https://tinyurl.com/Attendo-App">https://tinyurl.com/Attendo-App</a></strong>
+</p>
+
+<p align="center">
   <a href="#-overview">Overview</a> •
   <a href="#-features">Features</a> •
   <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> •
